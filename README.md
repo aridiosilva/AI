@@ -3,7 +3,18 @@
 ![Machine Learning Segments](https://github.com/aridiosilva/AI/blob/main/machine-learning-topics-as.png)
 
 - **Unsupervised Learning** - *Is a type of algorithm that learns patterns from untagged data. The hope is that through mimicry, the machine is forced to build a compact internal representation of its world*
+
 - **Supervised Learning** - *Is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. ... In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal).*
+
+> Different Types of Supervised Learning
+> 1. Regression
+> 2. Classification
+> 3. Naive Bayesian Model
+> 4. Random Forest Model
+> 5. Neural Networks
+> 6. Support Vector Machines
+> Pros & Cons of Supervised Learning 
+
 - **Reinforcement Learning** - *Is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.*
 
 # Data Science 
