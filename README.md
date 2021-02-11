@@ -2,7 +2,7 @@
 
 Topics and concepts related to AI, ML, DP, DM and others:
 
-- **PCA - Principal Component Analysis** - One of the most often used **linear model** to extract information from data. can be useful for you in term of data preprocessing, feature extraction, dimensional reduction, and data visualization.
+- **PCA - Principal Component Analysis** - One of the most often used **linear model** to extract information from data, and can be useful for you in term of data preprocessing, feature extraction, dimensional reduction, and data visualization.
 -
 -
 
