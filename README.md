@@ -1,6 +1,6 @@
 # Machine Learning  
 
-![Machine Learning Segments](https://github.com/aridiosilva/AI/blob/main/machine-learning-topics-as.png)
+
 
 - **Unsupervised Learning** - *Is a type of algorithm that learns patterns from untagged data. The hope is that through mimicry, the machine is forced to build a compact internal representation of its world*
 
@@ -26,6 +26,19 @@
 > 1. Ensemble Methods
 
 - **Reinforcement Learning** - *Is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.*
+
+![Machine Learning Segments](https://github.com/aridiosilva/AI/blob/main/machine-learning-topics-as.png)
+
+## How to Select a Machine Learning Algorithm
+
+A common question is “Which machine learning algorithm should I use?” The algorithm you select depends primarily on two different aspects of your data science scenario:
+
+1 - What you want to do with your data? Specifically, what is the business question you want to answer by learning from your past data?
+2 - What are the requirements of your data science scenario? Specifically, what is the accuracy, training time, linearity, number of parameters, and number of features your solution supports?
+
+![how to](https://github.com/aridiosilva/AI/blob/8d87257f33d6e573da31ca4801f6022ef0789e73/HowToSelectMachineLearningAlgorithms.jpg)
+
+![algorithms](https://github.com/aridiosilva/AI/blob/8d87257f33d6e573da31ca4801f6022ef0789e73/MicrosoftAzure-MachineLearningAlgorithmCheatSheet.jpg)
 
 # Data Science 
 
