@@ -2,7 +2,7 @@
 
 Data analysis and machine learning have become an integrative part of the modern scientific methodology, offering automated procedures for the prediction of a phenomenon based on past observations, unraveling underlying patterns in data and providing insights about the problem. Yet, caution should avoid using machine learning as a black-box tool, but rather consider it as a methodology, with a rational thought process that is entirely dependent on the problem under study. In particular, the use of algorithms should ideally require a reasonable understanding of their mechanisms, properties and limitations, in order to better apprehend and interpret their results.
 
-![](https://github.com/aridiosilva/AI/commit/e54f4faf7c9c1ad9d11274547b813165a5e8b306)
+![Machine Learning Segments](https://github.com/aridiosilva/AI/blob/main/machine-learning-topics-as.png)
 
 
 Topics and concepts related to AI, ML, DL, NN, DM, data analysis and data mining and others:
