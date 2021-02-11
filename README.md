@@ -26,9 +26,9 @@ Note: Basic knowledge on Linear Algebra is necessary to understand the numerical
 - How to calculate Standardized Data?
 - How to calculate Covariance Matrix from your data? 
 - How to calculate Correlation Matrix from your data? 
-- How to obtain Principal Component Analysis (PCA) from Covariance Matrix? 
-- How to obtain Principal Component Analysis (PCA) from Correlation Matrix? 
-- How to obtain Principal Component Analysis (PCA) based on Singular Value Decomposition (SVD)? 
+- How to obtain PCA from Covariance Matrix? 
+- How to obtain PCA from Correlation Matrix? 
+- How to obtain PCA based on Singular Value Decomposition (SVD)? 
 - Free PCA online Interactive Programs 
 - PCA in Microsoft Excel (using PCA Excel Add-In) 
 - PCA in Python 
