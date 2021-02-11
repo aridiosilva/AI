@@ -1,11 +1,14 @@
 # Data Science 
 
+Data analysis and machine learning have become an integrative part of the modern scientific methodology, offering automated procedures for the prediction of a phenomenon based on past observations, unraveling underlying patterns in data and providing insights about the problem. Yet, caution should avoid using machine learning as a black-box tool, but rather consider it as a methodology, with a rational thought process that is entirely dependent on the problem under study. In particular, the use of algorithms should ideally require a reasonable understanding of their mechanisms, properties and limitations, in order to better apprehend and interpret their results.
+
 Topics and concepts related to AI, ML, DL, NN, DM, data analysis and data mining and others:
 
 - **PCA - Principal Component Analysis** - One of the most often used **linear model** to extract information from data, and can be useful for you in term of data preprocessing, feature extraction, dimensional reduction, and data visualization.
 - **Neural Networks**
 - **Q Learning** - Pictorial introduction to Reinforcement Learning of Agent in unknown environment. Solving Tower of Hanoi.
 - **K-Means Clustering** - Interesting algorithm to partition your data. Resources to classification analysis, clustering analysis, data mining
+- **Random Forests** - Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean/average prediction (regression) of the individual trees. 
 - **Mixture Distribution** - Blend of independent component distributions.
 - **Gaussian Mixture Model** - Flexible unsupervised learning for density estimation, clustering and likelihood optimization.
 - **K-Nearest Neighbor Algorithm** - Supervised learning for classification, interpolation and extrapolation in data mining and statistical pattern recognition
