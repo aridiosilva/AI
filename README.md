@@ -2,6 +2,10 @@
 
 ![Machine Learning Segments](https://github.com/aridiosilva/AI/blob/main/machine-learning-topics-as.png)
 
+- **Unsupervised Learning** - *Is a type of algorithm that learns patterns from untagged data. The hope is that through mimicry, the machine is forced to build a compact internal representation of its world*
+- **Supervised Learning** - *Is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. ... In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal).*
+- **Reinforcement Learning** - *Is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.*
+
 # Data Science 
 
 Data analysis and machine learning have become an integrative part of the modern scientific methodology, offering automated procedures for the prediction of a phenomenon based on past observations, unraveling underlying patterns in data and providing insights about the problem. Yet, caution should avoid using machine learning as a black-box tool, but rather consider it as a methodology, with a rational thought process that is entirely dependent on the problem under study. In particular, the use of algorithms should ideally require a reasonable understanding of their mechanisms, properties and limitations, in order to better apprehend and interpret their results.
@@ -9,7 +13,6 @@ Topics and concepts related to AI, ML, DL, NN, DM, data analysis and data mining
 
 - **PCA - Principal Component Analysis** - One of the most often used **linear model** to extract information from data, and can be useful for you in term of data preprocessing, feature extraction, dimensional reduction, and data visualization.
 - **Neural Networks**
-- **Reinforcement Learning** - Is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
 - **Q Learning** - Pictorial introduction to Reinforcement Learning of Agent in unknown environment. Solving Tower of Hanoi.
 - **K-Means Clustering** - Interesting algorithm to partition your data. Resources to classification analysis, clustering analysis, data mining
 - **Random Forests** - Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean/average prediction (regression) of the individual trees. 
