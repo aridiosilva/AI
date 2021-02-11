@@ -4,6 +4,14 @@
 
 - **Unsupervised Learning** - *Is a type of algorithm that learns patterns from untagged data. The hope is that through mimicry, the machine is forced to build a compact internal representation of its world*
 
+> Some popular examples of unsupervised learning algorithms are:
+> 
+> 1. K-means for clustering problems
+> 1. Apriori algorithm for association rule learning problems
+> 1. PCA - Principal Component Analysis
+> 1. SVC - Singular Value Decomposition
+> 1. ICA - Independent Component Analysis
+
 - **Supervised Learning** - *Is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. ... In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal).*
 
 > Different Types of Supervised Learning Algorithms
