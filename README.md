@@ -52,6 +52,18 @@ Topics and concepts related to AI, ML, DP, DM and others:
 - **EM Algorithm** - An iterative procedure to estimate the maximum likelihood of mixture density distribution
 - **SVM - Support Vector Machine** - Classify non-linear data using SVM without programming
 - **Maximum Likelihood** - Well-known method to estimate the parameter of a distribution
+- **Simple Data Analysis** - Short Introduction of data analysis using Python
+- **Numpy** - The basic data structure of array and matrices
+- **Pandas** - The world most famous data analysis modules
+- **Video Analysis using OpenCV-Python** - Super fun basic video analysis
+- **SVM in Python** - Use scikit-learn for Support Vector Machine to do Machine Learning
+- **Automatic Theorem Prover in Python**- Interactive way to use Python in solving first order proposition logic
+- **Automatic Geocoding in Python** - Convert your tons of street, locations and cities into latitude and longitude coordinates
+- **Practices Neural Network in Python** - Use Perceptron and Multi-Linear Preceptron to train and predict the data
+- **Displaying Locations using Heatmap in Python** - Visualize the geocoded latitude and longitude coordinates into heatmap
+-- **Ideal Flow using Python** - Network efficiency analysis based on Ideal Flow
+-- **NLP - Natural Language Processing** - NLP using Python NLTK by analyzing the book of Psalm of David
+
 
 
 # PCA - Principal Component Analysis 
