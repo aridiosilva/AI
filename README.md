@@ -38,14 +38,7 @@ A common question is “Which machine learning algorithm should I use?” The al
 
 ![how to](https://github.com/aridiosilva/AI/blob/8d87257f33d6e573da31ca4801f6022ef0789e73/HowToSelectMachineLearningAlgorithms.jpg)
 
-### Extract Information from Text
-
-![](https://github.com/aridiosilva/AI/blob/main/extract_info_from_text.jpg)
-
-### If You Want to Predict Values
-
-![](https://github.com/aridiosilva/AI/blob/main/PredictValues.jpg)
-
+### The Algorithm to choose Depeding On What You Want to do
 
 ![algorithms](https://github.com/aridiosilva/AI/blob/8d87257f33d6e573da31ca4801f6022ef0789e73/MicrosoftAzure-MachineLearningAlgorithmCheatSheet.jpg)
 
