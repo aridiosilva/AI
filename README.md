@@ -6,6 +6,7 @@ Topics and concepts related to AI, ML, DL, NN, DM, data analysis and data mining
 
 - **PCA - Principal Component Analysis** - One of the most often used **linear model** to extract information from data, and can be useful for you in term of data preprocessing, feature extraction, dimensional reduction, and data visualization.
 - **Neural Networks**
+- **Reinforcement Learning** - Is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
 - **Q Learning** - Pictorial introduction to Reinforcement Learning of Agent in unknown environment. Solving Tower of Hanoi.
 - **K-Means Clustering** - Interesting algorithm to partition your data. Resources to classification analysis, clustering analysis, data mining
 - **Random Forests** - Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean/average prediction (regression) of the individual trees. 
