@@ -10,10 +10,10 @@ Topics and concepts related to AI, ML, DP, DM and others:
 
 In data science, one of the most often used **linear model** to extract information from data is **Principal Component Analysis (PCA)**. We need to learn about what PCA is and how PCA can be useful for you in term of:
 
-   -- data preprocessing, 
-   -- feature extraction, 
-   -- dimensional reduction, and 
-   -- data visualization.  
+   - data preprocessing, 
+   - feature extraction, 
+   - dimensional reduction, and 
+   - data visualization.  
    
 Note: Basic knowledge on Linear Algebra is necessary to understand the numerical examples and concepts involved. 
 
