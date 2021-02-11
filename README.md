@@ -8,12 +8,14 @@
 
 > Different Types of Supervised Learning Algorithms
 >
-> 1. Regression
-> 2. Classification
-> 3. Naive Bayesian Model
-> 4. Random Forest Model
-> 5. Neural Networks
-> 6. Support Vector Machines
+> 1. Decision Trees
+> 1. Naive Bayes Classification
+> 1. SVM - Support vector machines for classification problems
+> 1. Random forest for classification and regression problems
+> 1. Linear regression for regression problems
+> 1. Ordinary Least Squares Regression
+> 1. Logistic Regression
+> 1. Ensemble Methods
 
 - **Reinforcement Learning** - *Is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.*
 
