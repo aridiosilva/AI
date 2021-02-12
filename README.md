@@ -149,50 +149,38 @@ Note: Basic knowledge on Linear Algebra is necessary to understand the numerical
 
 epending on the network architecture, the non-linear function inside the neuron and the learning methodsand its purposes, different name of neural network models was developed. 
 
-1. What is Neural Network? 
-
-1.1 Why Use Neural Network?
-1.2. Limitation of Neural Network 
-1.3. Neural Network Terminologies and Notations 
-
-2. Model of a Neuron (NeuronModel.html)
-
-2.1. Aggregation Function 
-2.2. Activation Function 
-2.3. Bias and Dummy Input 
-
-3. Boolean Logic using Single Layer Neural Network 
-4. Input-Output Diagram of Perceptron
-5. Building Neural Network using Spreadsheet
-6. Training Single Layer Neural Network
-7. Advanced Training Single Layer Neural Network using Spreadsheet 
-8. Single Layer Bipolar Neural Network
-9. Multi-Layer Neural Network 
-10. Training Neural Network using Back Propagation
-
-10.1.  Problems with Back Propagation 
-
-11. Training Neural Network Using Excel Solver
-12. Plug & Play Neural Network 
-
-12.1.  Boolean Neural Network 
-12.2. Arithmetic Neural Network 
-
-13. Neural Network for Regression Analysis
-
-13.1. Simple Linear Regression 
-13.2. Multiple Linear Regression 
-13.3. Logistic Regression
-13.4. Polynomial Regression 
-
-14. Applications of Neural Network
-
-14.1. Design of Neural Network 
-14.2. Training Neural Network 
-14.3. Neural Network Utilization 
-
-15. Classification Application: Prediction Beyond Expert System 
-16. Image Processing Application: Optical Number Recognition 
-17. Forecasting from Time Series Data 
-18. Summary: Integrated Approach to Neural Network 
+-  What is Neural Network? 
+  > - Why Use Neural Network?
+  > - Limitation of Neural Network 
+  > - Neural Network Terminologies and Notations 
+- Model of a Neuron (NeuronModel.html)
+  > - Aggregation Function 
+  > - Activation Function 
+  > - Bias and Dummy Input 
+- Boolean Logic using Single Layer Neural Network 
+- Input-Output Diagram of Perceptron
+- Building Neural Network using Spreadsheet
+- Training Single Layer Neural Network
+- Advanced Training Single Layer Neural Network using Spreadsheet 
+- Single Layer Bipolar Neural Network
+- Multi-Layer Neural Network 
+- Training Neural Network using Back Propagation
+  > - Problems with Back Propagation 
+- Training Neural Network Using Excel Solver
+- Plug & Play Neural Network 
+  > - Boolean Neural Network 
+  > - Arithmetic Neural Network 
+-  Neural Network for Regression Analysis
+  > - Simple Linear Regression 
+  > - Multiple Linear Regression   
+  > - Logistic Regression
+  > - Polynomial Regression 
+- Applications of Neural Network
+  > - Design of Neural Network 
+  > - Training Neural Network   
+  > - Neural Network Utilization 
+- Classification Application: Prediction Beyond Expert System 
+- Image Processing Application: Optical Number Recognition 
+- Forecasting from Time Series Data 
+- Summary: Integrated Approach to Neural Network 
 
