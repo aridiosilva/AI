@@ -150,13 +150,13 @@ Note: Basic knowledge on Linear Algebra is necessary to understand the numerical
 epending on the network architecture, the non-linear function inside the neuron and the learning methodsand its purposes, different name of neural network models was developed. 
 
 -  What is Neural Network? 
-  > - Why Use Neural Network?
-  > - Limitation of Neural Network 
-  > - Neural Network Terminologies and Notations 
+   > - Why Use Neural Network?
+   > - Limitation of Neural Network 
+   > - Neural Network Terminologies and Notations 
 - Model of a Neuron (NeuronModel.html)
-  > - Aggregation Function 
-  > - Activation Function 
-  > - Bias and Dummy Input 
+   > - Aggregation Function 
+   > - Activation Function 
+   > - Bias and Dummy Input 
 - Boolean Logic using Single Layer Neural Network 
 - Input-Output Diagram of Perceptron
 - Building Neural Network using Spreadsheet
@@ -165,20 +165,20 @@ epending on the network architecture, the non-linear function inside the neuron 
 - Single Layer Bipolar Neural Network
 - Multi-Layer Neural Network 
 - Training Neural Network using Back Propagation
-  > - Problems with Back Propagation 
+   > - Problems with Back Propagation 
 - Training Neural Network Using Excel Solver
 - Plug & Play Neural Network 
-  > - Boolean Neural Network 
-  > - Arithmetic Neural Network 
+   > - Boolean Neural Network 
+   > - Arithmetic Neural Network 
 -  Neural Network for Regression Analysis
-  > - Simple Linear Regression 
-  > - Multiple Linear Regression   
-  > - Logistic Regression
-  > - Polynomial Regression 
+   > - Simple Linear Regression 
+   > - Multiple Linear Regression   
+   > - Logistic Regression
+   > - Polynomial Regression 
 - Applications of Neural Network
-  > - Design of Neural Network 
-  > - Training Neural Network   
-  > - Neural Network Utilization 
+   > - Design of Neural Network 
+   > - Training Neural Network   
+   > - Neural Network Utilization 
 - Classification Application: Prediction Beyond Expert System 
 - Image Processing Application: Optical Number Recognition 
 - Forecasting from Time Series Data 
