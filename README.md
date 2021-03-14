@@ -1,21 +1,25 @@
 # Machine Learning  
 
+Four branches of machine learning In our previous examples, you’ve become familiar with three specific types of machine-learning problems: binary classification, multiclass classification, and scalar regression. All three are instances of supervised learning, where the goal is to learn the relationship between training inputs and training targets.
+Supervised learning is just the tip of the iceberg—machine learning is a vast field with a complex subfield taxonomy. Machine-learning algorithms generally fall into four broad categories, described in the following sections.
 
+## Supervised learning
 
-- **Unsupervised Learning** - *Is a type of algorithm that learns patterns from untagged data. The hope is that through mimicry, the machine is forced to build a compact internal representation of its world*
+**Supervised Learning** - *Is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. ... In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal).*
 
-> Some popular examples of unsupervised learning algorithms are:
-> 
-> 1. K-means for clustering problems
-> 1. Apriori algorithm for association rule learning problems
-> 1. PCA - Principal Component Analysis
-> 1. SVC - Singular Value Decomposition
-> 1. ICA - Independent Component Analysis
+This is by far the most common case. It consists of learning to map input data to known targets (also called annotations), given a set of examples (often annotated by
+humans). All four examples you’ve encountered in this book so far were canonical examples of supervised learning. Generally, almost all applications of deep learning 
+that are in the spotlight these days belong in this category, such as optical character recognition, speech recognition, image classification, and language translation.
+Although supervised learning mostly consists of classification and regression, there are more exotic variants as well, including the following (with examples): 
 
-- **Supervised Learning** - *Is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. ... In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal).*
+> - Sequence generation—Given a picture, predict a caption describing it. Sequence generation can sometimes be reformulated as a series of classification problems
+(such as repeatedly predicting a word or token in a sequence). 
+> - Syntax tree prediction—Given a sentence, predict its decomposition into a syntax tree.
+> -  Object detection—Given a picture, draw a bounding box around certain objects inside the picture. This can also be expressed as a classification problem (given many candidate bounding boxes, classify the contents of each one) or as a joint classification and regression problem, where the bounding-box coordinates are predicted via vector regression.
+> - Image segmentation—Given a picture, draw a pixel-level mask on a specific object.
 
-> Different Types of Supervised Learning Algorithms
->
+Different Types of Supervised Learning Algorithms:
+
 > 1. Decision Trees
 > 1. Naive Bayes Classification
 > 1. SVM - Support vector machines for classification problems
@@ -25,8 +29,54 @@
 > 1. Logistic Regression
 > 1. Ensemble Methods
 
-- **Reinforcement Learning** - *Is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.*
+## Unsupervised learning
 
+- **Unsupervised Learning** - *Is a type of algorithm that learns patterns from untagged data. The hope is that through mimicry, the machine is forced to build a compact internal representation of its world*
+
+This branch of machine learning consists of finding interesting transformations of the input data without the help of any targets, for the purposes of data visualization, data
+compression, or data denoising, or to better understand the correlations present in the data at hand. Unsupervised learning is the bread and butter of data analytics, and
+it’s often a necessary step in better understanding a dataset before attempting to solve a supervised-learning problem. Dimensionality reduction and clustering are well-known
+categories of unsupervised learning.
+
+Some popular examples of unsupervised learning algorithms are:
+ 
+> 1. K-means for clustering problems
+> 1. Apriori algorithm for association rule learning problems
+> 1. PCA - Principal Component Analysis
+> 1. SVC - Singular Value Decomposition
+> 1. ICA - Independent Component Analysis
+
+## Self-supervised learning
+
+This is a specific instance of supervised learning, but it’s different enough that it deserves its own category. Self-supervised learning is supervised learning without
+human-annotated labels—you can think of it as supervised learning without any humans in the loop. There are still labels involved (because the learning has to be
+supervised by something), but they’re generated from the input data, typically using a heuristic algorithm.
+
+For instance, autoencoders are a well-known instance of self-supervised learning, where the generated targets are the input, unmodified. In the same way, trying to predict
+the next frame in a video, given past frames, or the next word in a text, given previous words, are instances of self-supervised learning (temporally supervised learning, in this case: supervision comes from future input data). Note that the distinction between supervised, self-supervised, and unsupervised learning can be blurry sometimes—these
+categories are more of a continuum without solid borders. Self-supervised learning can be reinterpreted as either supervised or unsupervised learning, depending on whether
+you pay attention to the learning mechanism or to the context of its application. 
+
+NOTE In this book, we’ll focus specifically on supervised learning, because it’s by far the dominant form of deep learning today, with a wide range of industry applications. 
+
+## Reinforcement learning
+
+**Reinforcement Learning** - *Is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.*
+
+Long overlooked, this branch of machine learning recently started to get a lot of attention after Google DeepMind successfully applied it to learning to play Atari
+games (and, later, learning to play Go at the highest level). In reinforcement learning, an agent receives information about its environment and learns to choose actions that
+will maximize some reward. For instance, a neural network that “looks” at a videogame screen and outputs game actions in order to maximize its score can be trained
+via reinforcement learning. 
+
+Currently, reinforcement learning is mostly a research area and hasn’t yet had significant practical successes beyond games. In time, however, we expect to see reinforcement
+learning take over an increasingly large range of real-world applications: 
+
+> - self-driving cars, 
+> - robotics, 
+> - resource management, 
+> - education, 
+> - and so on. 
+ 
 ![Machine Learning Segments](https://github.com/aridiosilva/AI/blob/main/machine-learning-topics-as.png)
 
 ## How to Select a Machine Learning Algorithm
