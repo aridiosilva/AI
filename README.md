@@ -234,3 +234,5 @@ epending on the network architecture, the non-linear function inside the neuron 
 - Forecasting from Time Series Data 
 - Summary: Integrated Approach to Neural Network 
 
+
+
